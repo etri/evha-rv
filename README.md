@@ -17,7 +17,7 @@ EVHA-RV is an open-source RISC-V core developed by ETRI. It extends the Syntacor
 
 For more information on core architecture, see [SCR1 External Architecture Specification](https://github.com/syntacore/scr1/blob/master/docs/scr1_eas.pdf).
 
-For more information on 64-bit CSR, see [Control and Status Register (CSR)](placeholder).
+For more information on 64-bit CSR, see [Control and Status Register (CSR)](https://github.com/etri/evha-rv/blob/main/Control%20and%20Status%20Register%20(CSR).pdf).
 
 ## Repository contents
 
